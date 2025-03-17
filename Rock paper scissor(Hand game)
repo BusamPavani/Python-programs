@@ -1,0 +1,8 @@
+a=str(input())
+b=str(input())
+if a=='paper' and b=='scissor':
+  print("paper")
+if a=='paper' and b=='rock ':
+  print("paper")
+if a=='paper' and b=='paper':
+  print("tie")
